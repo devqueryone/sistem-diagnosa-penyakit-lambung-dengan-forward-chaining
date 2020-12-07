@@ -1,0 +1,49 @@
+#########################################
+1. Magh Kronis
+_________________________________________
+	G3 	= Berat badan menurun
+	G6 	= Kembung
+	G8 	= Lidah seperti berlapis lendir
+	G9 	= Mual
+	G12 = Nafas bau busuk
+	G19	= Sakit perut bagian atas
+	G20	= Sendawa tiada henti
+
+#########################################
+2. Magh Akut
+_________________________________________
+	G4	= Diare
+	G5	= Kehilangan nafsu makan
+	G9	= Mual
+	G11	= Muntah
+	G14	= Nyeri perut
+	G17	= Rasa perih pada perut
+	G21 = Sesak nafas
+	G22 = Tinja berwarna gelap
+
+#########################################
+3. Kanker Lambung
+_________________________________________
+	G1 	= Badan cepat lelah
+	G3	= Berat badan menurun
+	G5	= Kehilangan nafsu makan
+	G9 	= Mual
+	G10	= Mulas
+	G11	= Muntah
+	G15	= Radang lambung
+	G17	= Rasa perih pada perut
+
+#########################################
+4. GERD
+_________________________________________
+	G2 	= Batuk
+	G5 	= Kehilangan nafsu makan
+	G7 	= Kesulitan menelan
+	G9 	= Mual
+	G10	= Mulas
+	G11	= Muntah
+	G13	= Nyeri dada
+	G14	= Nyeri perut
+	G16 = Rasa asam pada mulut
+	G17	= Rasa perih pada perut
+	G21 = Sesak nafas
